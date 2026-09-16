@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sarthak2501
-- 👀 I’m interested in Machine learning , Data Science , Deep Learning 
-- 🌱 I’m currently learning  Python Programming , Web Development 
+
 - 📫 Reach me : My Linkedln account - https://www.linkedin.com/in/sarthak-shashi-3b7a441b7/
 
 <!---
